@@ -2,4 +2,4 @@
 
 Application developed for GoStack test
 
-Not developing any more
+No longer in development
